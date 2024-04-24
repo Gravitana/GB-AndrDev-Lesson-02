@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GB-AndrDev-Lesson-02</string>
+    <string name="upper_text">Верхний текст из %s</string>
+    <string name="second_text">Нижний текст из %s</string>
 </resources>
